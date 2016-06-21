@@ -1,0 +1,35 @@
+{
+  "name": "turf-arc",
+  "version": "1.0.0",
+  "description": "Calculate great circles routes as lines",
+  "main": "index.js",
+  "scripts": {
+    "doc": "dox -r < index.js | doxme --readme > README.md",
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepankuzmin/turf-arc.git"
+  },
+  "keywords": [
+    "great",
+    "circle",
+    "routes",
+    "geodesic",
+    "lines"
+  ],
+  "author": "Stepan Kuzmin <to.stepan.kuzmin@gmail.com> (stepankuzmin.ru)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/stepankuzmin/turf-arc/issues"
+  },
+  "homepage": "https://github.com/stepankuzmin/turf-arc#readme",
+  "dependencies": {
+    "arc": "0.1.0"
+  },
+  "devDependencies": {
+    "dox": "0.8.1",
+    "doxme": "1.8.2",
+    "tape": "4.6.0"
+  }
+}
