@@ -1,8 +1,7 @@
 # turf-arc
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/stepankuzmin/turf-arc.svg)](https://greenkeeper.io/)
-
 [![build status](https://secure.travis-ci.org/stepankuzmin/turf-arc.png)](http://travis-ci.org/stepankuzmin/turf-arc)
+[![Greenkeeper badge](https://badges.greenkeeper.io/stepankuzmin/turf-arc.svg)](https://greenkeeper.io/)
 
 Calculate great circles routes as lines
 
